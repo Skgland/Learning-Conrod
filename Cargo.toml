@@ -29,5 +29,5 @@ nannou_egui = "0.5.0"
 proc-macro2 = "1.0.92"
 quote = "1.0.37"
 ron= "0.8.1"
-serde = { version = "1.0.215", features = ["derive"] }
+serde = { version = "1.0.216", features = ["derive"] }
 syn = "2.0.90"
